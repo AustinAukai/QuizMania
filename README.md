@@ -1,4 +1,4 @@
-Quiz Mania
+**Quiz Mania**
 
 Practicing math can at times be boring and our team wanted to create an app that would change this. Introducing Quiz Mania. This app is an online multiplayer game that allows kids to practice their math skills.
 
